@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BTWearable</string>
+    <string name="search_for_ble_devices">Search for BLE devices</string>
+    <string name="stop_searching_for_ble_devices">Stop searching for BLE devices</string>
+    <string name="unknown_device">Unknown Device</string>
+    <string name="ble_not_supported">BLE not supported.</string>
+</resources>

@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.btw.btwearable.MainActivity" >
+
+
+    <item
+        android:id="@+id/search_ble_devices"
+        android:orderInCategory="100"
+        android:title="@string/search_for_ble_devices"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/stop_search_ble_devices"
+        android:orderInCategory="100"
+        android:title="@string/stop_searching_for_ble_devices"
+        android:visible="false"
+        app:showAsAction="never" />
+</menu>
